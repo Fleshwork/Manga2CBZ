@@ -1,0 +1,2 @@
+# Only the GUI needs this; manga2cbz.py uses the standard library alone.
+customtkinter>=5.2
