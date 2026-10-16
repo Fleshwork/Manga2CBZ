@@ -103,14 +103,6 @@ python manga2cbz_gui.py
 On Windows, double-click `build_exe.bat`. It creates a private build environment, installs
 PyInstaller and CustomTkinter, and writes `dist/Manga2CBZ.exe`.
 
-
-### Tests
-
-```bash
-pip install pytest
-python -m pytest
-```
-
 ## How the CBZ is built
 
 A CBZ is a ZIP archive of images. Pages are stored uncompressed (images are already
