@@ -103,8 +103,6 @@ python manga2cbz_gui.py
 On Windows, double-click `build_exe.bat`. It creates a private build environment, installs
 PyInstaller and CustomTkinter, and writes `dist/Manga2CBZ.exe`.
 
-Pushing a version tag (`git tag v1.0.0 && git push --tags`) also builds the exe on GitHub
-and attaches it to a new release automatically.
 
 ### Tests
 
